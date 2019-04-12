@@ -10,7 +10,7 @@
 Teri Eyenike - Codegod
 
 # Link to the website page
-
+[Codepen Recreation - Built by 'Teri](https://terieyenike.github.io/Codepen/)
 
 ## Screenshot from project
 
