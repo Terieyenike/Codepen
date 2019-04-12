@@ -9,9 +9,9 @@
 
 Teri Eyenike - Codegod
 
-
-## Display Project Image
-![alt text](url "Interface Codepen")
-
-
 # Link to the website page
+
+
+## Screenshot from project
+
+![alt text](https://github.com/terieyenike/Codepen/blob/master/img/codepen.png "Codepen interface - codepen.io")
